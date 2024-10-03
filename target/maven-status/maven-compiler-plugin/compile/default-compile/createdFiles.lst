@@ -1,0 +1,6 @@
+com\mycompany\abstractdemo\BaseDatabaseManager.class
+com\mycompany\abstractdemo\SqlServerDatabaseManager.class
+com\mycompany\abstractdemo\AbstractDemo.class
+com\mycompany\abstractdemo\MySqlDatabaseManager.class
+com\mycompany\abstractdemo\OracleDatabaseManager.class
+com\mycompany\abstractdemo\CustomerManager.class
